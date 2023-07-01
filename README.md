@@ -22,6 +22,9 @@ Second task is to provide information on three components
   
 Prepare a power point presentation to recommend 1000 new customers
 
-And the third task is visualize the result and present a dashboard to client.
+And the third task is visualize the result and prepare a dashboard in Tableau to present it to client.
+
+Here is the Tableau public dashboard link:
+https://public.tableau.com/views/newcus/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
